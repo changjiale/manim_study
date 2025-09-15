@@ -171,6 +171,6 @@ manim_study/
 
 ---
 
-*项目创建时间：2024年*  
+*项目创建时间：2025年*  
 *Manim版本：Community v0.19.0*  
 *适用平台：macOS, Windows, Linux*
