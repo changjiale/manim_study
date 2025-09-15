@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/leer/project/github/manim_study/media/videos/basic_shapes/480p15/partial_movie_files/BasicShapes/1185818338_2447331731_223132457.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/basic_shapes/480p15/partial_movie_files/BasicShapes/624642324_4071516364_902385558.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/basic_shapes/480p15/partial_movie_files/BasicShapes/624642324_1249967295_1616310121.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/basic_shapes/480p15/partial_movie_files/BasicShapes/624642324_4071516364_914863536.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/basic_shapes/480p15/partial_movie_files/BasicShapes/624642324_4060398352_1216901465.mp4'

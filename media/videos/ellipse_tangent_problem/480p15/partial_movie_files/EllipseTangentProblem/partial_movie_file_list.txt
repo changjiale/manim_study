@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/1185818338_470875603_223132457.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_4247107814_975811705.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_2440895577_3246766197.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_4071516364_2285851154.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_3802120858_3662884403.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_4247107814_63677605.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_2418270740_3379244745.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_3543058947_1992777825.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_4247107814_2377809758.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_981669522_1047673892.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_1103839875_3963828443.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/ellipse_tangent_problem/480p15/partial_movie_files/EllipseTangentProblem/624642324_4166842112_1880684440.mp4'

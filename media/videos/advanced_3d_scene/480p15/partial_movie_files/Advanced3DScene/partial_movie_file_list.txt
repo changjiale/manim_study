@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/leer/project/github/manim_study/media/videos/advanced_3d_scene/480p15/partial_movie_files/Advanced3DScene/3028389898_1198514351_1519412625.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/advanced_3d_scene/480p15/partial_movie_files/Advanced3DScene/99950615_2767811478_498625674.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/advanced_3d_scene/480p15/partial_movie_files/Advanced3DScene/99950615_4039309560_3144118996.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/advanced_3d_scene/480p15/partial_movie_files/Advanced3DScene/4053685673_2099240287_4063447037.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/advanced_3d_scene/480p15/partial_movie_files/Advanced3DScene/656686042_2963463871_1229059686.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/advanced_3d_scene/480p15/partial_movie_files/Advanced3DScene/656686042_548731573_4243250397.mp4'

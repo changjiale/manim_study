@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/1185818338_824642840_223132457.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/624642324_2341082278_1273530273.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/624642324_2803698340_942151740.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/624642324_4071516364_3082470657.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/624642324_1860325033_3078826257.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/624642324_4247107814_2143694691.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/624642324_3778064471_2516992161.mp4'
+file 'file:/Users/leer/project/github/manim_study/media/videos/text_and_formulas/480p15/partial_movie_files/TextAndFormulas/624642324_4247107814_3161781595.mp4'
