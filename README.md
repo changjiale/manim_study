@@ -111,10 +111,11 @@ manim -pql basic_shapes.py BasicShapes
 
 ```
 manim_study/
-├── 项目说明.md                    # 项目说明（本文件）
-├── Manim学习指南.md               # 完整学习文档
-├── Manim快速参考.md               # 快速参考手册
-├── 学习路径规划.md                # 学习计划
+├── README.md                      # 项目说明（README）
+├── doc                            # 项目doc
+    ├── Manim学习指南.md                # 完整学习文档
+    ├── Manim快速参考.md                # 快速参考手册
+    └── 学习路径规划.md                 # 学习计划
 ├── basic_shapes.py                # 案例1：基础形状
 ├── text_and_formulas.py           # 案例2：文本与公式
 ├── coordinate_systems.py          # 案例3：坐标系与函数
